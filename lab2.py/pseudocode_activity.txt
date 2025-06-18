@@ -1,0 +1,20 @@
+
+
+START
+1 set the time for the alarm can go off.
+1a specify weather in milarty time or standerd time 
+1b specify if its am or pm 
+1c specigy what timezone its in 
+specify  what day you want the alarm to go off 
+
+2if the current tme is not equel to the time the alarm goes off
+2a alarm  will stay silient wait untill the current time equals the time should go off 
+
+
+3 if the current time is equal to the time alarm should go off 
+3a alarm will sound
+3b ask user either szoon the alarm or conpletly turn it off 
+3b.1 if user snooz then snooz for 5 minutes 
+once 5 minutes passes alarm goes off again and ask ther user to snooz or turn iy off 
+3b.2b if user stops the alarm alrm turns off and doesnt turn on 
+END
